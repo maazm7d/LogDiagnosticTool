@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Log Diagnostic Tool</string>
+    <string name="action_toggle_monitor">Stop Monitoring</string>
+    <string name="action_clear">Clear Logs</string>
+    <string name="action_export">Export</string>
+    <string name="action_capture_kernel">Capture Kernel</string>
+    <string name="hint_search">Filter logs...</string>
+    <string name="monitoring_started">Monitoring logs…</string>
+    <string name="monitoring_stopped">Log monitoring stopped</string>
+    <string name="export_failed">Export failed</string>
+    <string name="no_kernel_logs">No kernel logs available</string>
+</resources>

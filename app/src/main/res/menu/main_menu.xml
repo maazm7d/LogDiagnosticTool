@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_toggle_monitor"
+        android:title="@string/action_toggle_monitor"
+        app:showAsAction="ifRoom" />
+    
+    <item
+        android:id="@+id/action_clear"
+        android:title="@string/action_clear"
+        app:showAsAction="ifRoom" />
+    
+    <item
+        android:id="@+id/action_export"
+        android:title="@string/action_export"
+        app:showAsAction="ifRoom" />
+    
+    <item
+        android:id="@+id/action_capture_kernel"
+        android:title="@string/action_capture_kernel"
+        app:showAsAction="never" />
+    
+</menu>
